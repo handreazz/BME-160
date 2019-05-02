@@ -1,4 +1,5 @@
 # Research Programming in the Life Sciences
+D. Bernick/Spring 2019 @ UCSC
 
 * Lab1: Intro to Python
   * **countAT**: calculate A-T percentage in DNA seq
